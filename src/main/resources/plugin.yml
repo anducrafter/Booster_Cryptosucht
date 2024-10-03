@@ -1,0 +1,8 @@
+name: Booster
+version: '${project.version}'
+main: ch.andu.booster.Booster
+api-version: 1.20
+authors: [ anducrafter ]
+description: booster plugin cryptosucht
+commands:
+  booster:
